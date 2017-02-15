@@ -1,0 +1,26 @@
+total 92
+drwxr-xr-x 22 dzaki.alyafi StafCS 4096 Feb 16 01:35 .
+drwx--x--x  4 dzaki.alyafi StafCS 4096 Feb 16 01:33 ..
+drwxr-xr-x  8 dzaki.alyafi StafCS 4096 Feb 16 01:33 .git
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 15 23:02 OS171
+-rwxr-xr-x  1 dzaki.alyafi StafCS    7 Feb 16 01:01 README.md
+drwxr-xr-x  5 dzaki.alyafi StafCS 4096 Feb 15 23:02 Task-os171
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 15 23:02 acknowledge
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:51 key
+-rw-r--r--  1 dzaki.alyafi StafCS    0 Feb 16 01:38 lab01.txt
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:51 log
+drwxr-xr-x  3 dzaki.alyafi StafCS 4096 Feb 16 00:45 os171
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 01:16 sandbox
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 01:33 week00
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:48 week01
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:49 week02
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:49 week03
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:49 week04
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:49 week05
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:49 week06
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:50 week07
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:50 week08
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:50 week09
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:50 week10
+drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:52 xtra
+/home/fasilkom/mahasiswa/d/dzaki.alyafi/os171/week01
