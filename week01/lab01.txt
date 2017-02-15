@@ -24,3 +24,4 @@ drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:50 week09
 drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:50 week10
 drwxr-xr-x  2 dzaki.alyafi StafCS 4096 Feb 16 00:52 xtra
 /home/fasilkom/mahasiswa/d/dzaki.alyafi/os171/week01
+Today is 16 Feb 2017 at 02:03:41
