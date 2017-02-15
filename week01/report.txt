@@ -1,0 +1,10 @@
+week 01 tutorial
+
+In this week tutorial we should try to remove a certain file and make a report text file
+
+vi report.txt
+rm -f or -r <filename>
+
+and then we should verified the data by pwd
+
+pwd
