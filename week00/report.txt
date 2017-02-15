@@ -1,1 +1,13 @@
 #dzaki_alyafi
+
+Week 00 Tutorial
+ Creating GitHub Account 
+1. Login with your GitHub account, click New Repository button to create a new repository
+2. Give it a name of "os171" and initialize its repository with a README(since you must have at least one file generated in this repository. Then click Create repository
+ Login to badak.cs.ui.ac.id using Terminal on OSX or PuTTY on Windows 
+1. Open Terminal app (Mac Only)
+2. Type in ssh sso_account@kawung.cs.ui.ac.id to get inside Kawung's server
+3. Type in your sso password
+4. Type in again ssh badak.cs.ui.ac.id to get inside Badak's server
+5. Type again your ssh account password
+Contact GitHub API Training Shop Blog About
