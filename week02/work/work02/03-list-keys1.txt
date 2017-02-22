@@ -1,0 +1,14 @@
+/home/fasilkom/mahasiswa/d/dzaki.alyafi/.gnupg/pubring.gpg
+----------------------------------------------------------
+pub   4096R/7296C760 2017-02-21 [expires: 2017-08-20]
+uid                  Dzaki Alyafi (studying OS is ez!) <dzaki.alyafi@ui.ac.id>
+sub   4096R/6E78D769 2017-02-21 [expires: 2017-08-20]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+
+pub   4096R/A9D2AECF 2017-02-22 [expires: 2017-08-21]
+uid                  Dzaki Alyafi (Belajar OS!) <dzaki.alyafi@ui.ac.id>
+sub   4096R/B2FEF7ED 2017-02-22 [expires: 2017-08-21]
+

@@ -1,0 +1,4 @@
+total 8
+drwxr-xr-x 2 dzaki.alyafi StafCS 4096 Feb 22 10:13 .
+drwxr-xr-x 3 dzaki.alyafi StafCS 4096 Feb 22 10:09 ..
+-rw-r--r-- 1 dzaki.alyafi StafCS    0 Feb 22 10:13 02-ls-al.txt
