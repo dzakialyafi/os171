@@ -1,0 +1,19 @@
+Hello, this is explanation about linux booting!
+
+1. BIOS
+BIOS loads and executes MBR bot loader
+
+2. MBR
+MBR loads and executes GRUB boot loader
+
+3. GRUB
+GRUB loads and executes Kernel
+
+4. Kernel
+Kernel uses initrd as a temporary root file system until kernel is booted
+
+5. Init
+Init shows several Linux run levels
+
+6. Runlevel programs
+Offer various services getting started
