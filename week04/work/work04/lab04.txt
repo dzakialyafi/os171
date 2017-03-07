@@ -1,0 +1,23 @@
+Answer:
+a) Global-char are located globally outside the main program. Local-char are located locally and accessed throughout the main program only. It is also stated from the pointers are differently specified consider to the difference the scope of the variabel
+
+b) Global variables and local variables have many differences. Global var are declared outside the function, therefore it has more rooms to allocate its stack and addresses, resulting in greater amount of hexadecimals to represent the data stored inside. Whereas are stored locally in a function have a limited rooms to allocate each data in the local variables
+
+c) Global adress could be access from outside the program. However, local address cannot be accessed from any programs except its program.
+
+Answer number 2:
+a) Parameter Flags:
+   O_CREAT : Creates file if doesnt exist
+   O_RDWR : Request file to read/write
+   S_IRWXU : Permission to the user to read, write, and execute
+
+b) Parameter modes:
+   S_IRGRP : Users has access to read the files only
+   S_IWGRP : Users has access to write the files only
+   S_IROTH : Everyone has access to read the files
+
+c) Open and Close I/O Process
+   Open() process some system calls (write(),read(),fcntl(),lseek())
+
+   Close() process deletes a file descriptor
+   
