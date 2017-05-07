@@ -2,6 +2,6 @@ Github : dzakialyafi
 URL Ulasan : http://dzakialyafi.blogspot.co.id/2017/04/penjelasan-tentang-system-call-fork.html
 URL Video : http://youtu.be/_kUiH8DG-Ao
 Video Author : TechTud
-Pemetaan : week07
+Pemetaan : week06
 Revisi Pertama : 29 April 2017
 Revisi Terakhir : -
